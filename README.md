@@ -17,5 +17,5 @@ Along with the study of theoretical material, it is supposed to get acquainted w
 
 <br><br>
 <b>Список лабораторных работ:</b>
-* [Лаб.01](https://github.com/emjeepro/Supervised-machine-learning/blob/main/lab_01.ipynb): Разведочный анализ
+* [Лаб.01](https://github.com/emjeepro/Supervised-machine-learning/blob/main/lab_01.ipynb): Разведочный анализ с Seaborn
 * [Лаб.02](https://github.com/emjeepro/Supervised-machine-learning/blob/main/lab_02.ipynb): Работа в Scikit Learn
