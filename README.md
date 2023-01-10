@@ -14,3 +14,8 @@ Along with the study of theoretical material, it is supposed to get acquainted w
 Данный учебный модуль имеет целью формирование базовых знаний в области машинного обучения с учителем, а также приобретение навыков применения полученных теоретических знаний к решению прикладных задач аппроксимации и классификации в различных предметных областях.
 
 Наряду с изучением теоретического материала предполагается знакомство с реализацией методов машинного обучения в библиотеках [Scikit-learn](https://en.wikipedia.org/wiki/Scikit-learn), [PyBrain](http://www.pybrain.org/) и др. и использование этого инструментария для решения задач предсказательной аналитики.
+
+<br><br>
+<b>Список лабораторных работ:</b>
+* [Лаб.01](https://github.com/emjeepro/Supervised-machine-learning/blob/main/lab_01.ipynb): Разведочный анализ
+* [Лаб.02](https://github.com/emjeepro/Supervised-machine-learning/blob/main/lab_02.ipynb): Работа в Scikit Learn
