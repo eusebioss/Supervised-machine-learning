@@ -22,3 +22,5 @@ Along with the study of theoretical material, it is supposed to get acquainted w
 * [Лаб.03](https://github.com/emjeepro/Supervised-machine-learning/blob/main/lab_03.ipynb): Трехмерная геометрия и градиентный спуск
 * [Лаб.04 а](https://github.com/emjeepro/Supervised-machine-learning/blob/main/lab_04a.ipynb): Линейная регрессия
 * [Лаб.04 б](https://github.com/emjeepro/Supervised-machine-learning/blob/main/lab_04b.ipynb): Линейная регрессия
+* [Лаб.05 а](https://github.com/emjeepro/Supervised-machine-learning/blob/main/lab_05a.ipynb): Качество классификации
+* [Лаб.05 б](https://github.com/emjeepro/Supervised-machine-learning/blob/main/lab_05b.ipynb): Бинарная классификация
