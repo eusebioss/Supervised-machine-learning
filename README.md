@@ -26,3 +26,4 @@ Along with the study of theoretical material, it is supposed to get acquainted w
 * [Лаб.05 б](https://github.com/emjeepro/Supervised-machine-learning/blob/main/lab_05b.ipynb): Бинарная классификация
 * [Лаб.06](https://github.com/emjeepro/Supervised-machine-learning/blob/main/lab_06.ipynb): Кросс-валидация
 * [Лаб.07](https://github.com/emjeepro/Supervised-machine-learning/blob/main/lab_07.ipynb): Бинарная линейная классификация
+* [Лаб.08](https://github.com/emjeepro/Supervised-machine-learning/blob/main/lab_08.ipynb): Многоклассовая классификация
