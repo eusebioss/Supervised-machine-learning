@@ -29,3 +29,5 @@ Along with the study of theoretical material, it is supposed to get acquainted w
 * [Лаб.08](https://github.com/emjeepro/Supervised-machine-learning/blob/main/lab_08.ipynb): Многоклассовая классификация
 * [Лаб.09 а](https://github.com/emjeepro/Supervised-machine-learning/blob/main/lab_09a.ipynb): Решающие деревья
 * [Лаб.09 б](https://github.com/emjeepro/Supervised-machine-learning/blob/main/lab_09b.ipynb): Решающие деревья
+* [Лаб.10](https://github.com/emjeepro/Supervised-machine-learning/blob/main/lab_10.ipynb): Решающие деревья и случайные леса
+* [Лаб.11](https://github.com/emjeepro/Supervised-machine-learning/blob/main/lab_11.ipynb): Искусственные нейронные сети
