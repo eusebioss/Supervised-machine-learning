@@ -1,0 +1,21 @@
+student	result
+Craig Kennedy	1
+Tania Thompson	1
+Corinne Horn	0
+Caitlyn Blake	1
+Carleigh Stevens	0
+Bella Barron	1
+Jason Wolfe	0
+Sullivan Alvarado	1
+Lina Fry	1
+Ainsley Ibarra	1
+Jayleen Fuller	1
+Solomon Olsen	1
+Armani Valenzuela	0
+Sofia Fitzpatrick	1
+Amiah Sharp	1
+Rohan Gillespie	1
+Giovanny Whitney	1
+Amari Powers	1
+Conor Summers	0
+Layne Ballard	0
