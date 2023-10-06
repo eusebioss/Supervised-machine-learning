@@ -17,17 +17,17 @@ Along with the study of theoretical material, it is supposed to get acquainted w
 
 <br><br>
 <b>Список лабораторных работ:</b>
-* [Лаб.01](https://github.com/emjeepro/Supervised-machine-learning/blob/main/lab_01.ipynb): Разведочный анализ с Seaborn
-* [Лаб.02](https://github.com/emjeepro/Supervised-machine-learning/blob/main/lab_02.ipynb): Работа в Scikit Learn
-* [Лаб.03](https://github.com/emjeepro/Supervised-machine-learning/blob/main/lab_03.ipynb): Трехмерная геометрия и градиентный спуск
-* [Лаб.04 а](https://github.com/emjeepro/Supervised-machine-learning/blob/main/lab_04a.ipynb): Линейная регрессия
-* [Лаб.04 б](https://github.com/emjeepro/Supervised-machine-learning/blob/main/lab_04b.ipynb): Линейная регрессия
-* [Лаб.05 а](https://github.com/emjeepro/Supervised-machine-learning/blob/main/lab_05a.ipynb): Качество классификации
-* [Лаб.05 б](https://github.com/emjeepro/Supervised-machine-learning/blob/main/lab_05b.ipynb): Бинарная классификация
-* [Лаб.06](https://github.com/emjeepro/Supervised-machine-learning/blob/main/lab_06.ipynb): Кросс-валидация
-* [Лаб.07](https://github.com/emjeepro/Supervised-machine-learning/blob/main/lab_07.ipynb): Бинарная линейная классификация
-* [Лаб.08](https://github.com/emjeepro/Supervised-machine-learning/blob/main/lab_08.ipynb): Многоклассовая классификация
-* [Лаб.09 а](https://github.com/emjeepro/Supervised-machine-learning/blob/main/lab_09a.ipynb): Решающие деревья
-* [Лаб.09 б](https://github.com/emjeepro/Supervised-machine-learning/blob/main/lab_09b.ipynb): Решающие деревья
-* [Лаб.10](https://github.com/emjeepro/Supervised-machine-learning/blob/main/lab_10.ipynb): Решающие деревья и случайные леса
-* [Лаб.11](https://github.com/emjeepro/Supervised-machine-learning/blob/main/lab_11.ipynb): Искусственные нейронные сети
+* [Лаб.01](https://github.com/eusebioss/Supervised-machine-learning/blob/main/lab_01.ipynb): Разведочный анализ с Seaborn
+* [Лаб.02](https://github.com/eusebioss/Supervised-machine-learning/blob/main/lab_02.ipynb): Работа в Scikit Learn
+* [Лаб.03](https://github.com/eusebioss/Supervised-machine-learning/blob/main/lab_03.ipynb): Трехмерная геометрия и градиентный спуск
+* [Лаб.04 а](https://github.com/eusebioss/Supervised-machine-learning/blob/main/lab_04a.ipynb): Линейная регрессия
+* [Лаб.04 б](https://github.com/eusebioss/Supervised-machine-learning/blob/main/lab_04b.ipynb): Линейная регрессия
+* [Лаб.05 а](https://github.com/eusebioss/Supervised-machine-learning/blob/main/lab_05a.ipynb): Качество классификации
+* [Лаб.05 б](https://github.com/eusebioss/Supervised-machine-learning/blob/main/lab_05b.ipynb): Бинарная классификация
+* [Лаб.06](https://github.com/eusebioss/Supervised-machine-learning/blob/main/lab_06.ipynb): Кросс-валидация
+* [Лаб.07](https://github.com/eusebioss/Supervised-machine-learning/blob/main/lab_07.ipynb): Бинарная линейная классификация
+* [Лаб.08](https://github.com/eusebioss/Supervised-machine-learning/blob/main/lab_08.ipynb): Многоклассовая классификация
+* [Лаб.09 а](https://github.com/eusebioss/Supervised-machine-learning/blob/main/lab_09a.ipynb): Решающие деревья
+* [Лаб.09 б](https://github.com/eusebioss/Supervised-machine-learning/blob/main/lab_09b.ipynb): Решающие деревья
+* [Лаб.10](https://github.com/eusebioss/Supervised-machine-learning/blob/main/lab_10.ipynb): Решающие деревья и случайные леса
+* [Лаб.11](https://github.com/eusebioss/Supervised-machine-learning/blob/main/lab_11.ipynb): Искусственные нейронные сети
